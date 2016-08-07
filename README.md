@@ -1,4 +1,4 @@
 # hello-world
 Richards Repo for learning GIT
- Changed Typo on word learnigng.
- Wish I had see thios much sonner
+ Changed Typo on word learning.
+ Wish I had seen this much sonner
