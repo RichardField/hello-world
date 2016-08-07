@@ -1,2 +1,4 @@
 # hello-world
-Richards Repo for learnign GIT
+Richards Repo for learning GIT
+ Changed Typo on word learning.
+ Wish I had seen this much sooner
